@@ -1,6 +1,6 @@
 Built with Processing 4.
 
-How to run (made by gemini):
+How to run:
 
 ### Method 1: Using the Processing IDE (Recommended)
 
