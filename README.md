@@ -1,7 +1,7 @@
 A real-time 2D fluid dynamics simulator built with Processing 4 for my grade 12 CS project. 
 Implements an Eulerian approach to CFD (computer fluid dynamics) to provide a lightweight tool where users can draw obstacles, adjust airflow settings, and 
 observe real-time simulations based on a simplified Navier-Stokes equations. All the math for semi-Lagrangian advection and a pressure projection step was 
-based on Jos Stam’s Real-Time Fluid Dynamics for Games paper.
+based on Matthias Müller's "Ten Minute Physics -- How to write an Eulerian fluid simulator with 200 lines of code" Youtube Video and Jos Stam’s Real-Time Fluid Dynamics for Games paper.
 
 How to run:
 
